@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/36370950?v=4" width="150" align="right" style="border-radius: 50%; margin-left: 20px;" />
+<img src="avatar.png" width="150" align="right" style="border-radius: 50%; margin-left: 20px;" />
 
 ## Archana Krishnamurthy
 
