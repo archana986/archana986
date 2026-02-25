@@ -55,7 +55,7 @@ Accelerating customer data & AI initiatives from architecture to go-live. I buil
 
 ### What I Build
 
-**Data Engineering Exemplars** -- Production-ready pipelines with Auto Loader, Spark Declarative Pipelines, and medallion architectures, packaged as Databricks Asset Bundles
+**Data Engineering Template** -- Production-ready pipelines with Auto Loader, Spark Declarative Pipelines, and medallion architectures, packaged as Databricks Asset Bundles
 
 **MLOps & Governance Tooling** -- Unity Catalog model migration, lineage tracking, and governance automation
 
