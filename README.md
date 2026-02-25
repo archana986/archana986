@@ -2,7 +2,7 @@
 
 ## Archana Krishnamurthy
 
-**Delivery Solutions Architect at [Databricks](https://www.databricks.com)**
+**Delivery Solutions Architect at Databricks**
 
 Accelerating customer data & AI initiatives from architecture to go-live. I build production-ready exemplars, migration tooling, and self-service templates so teams can ship data platforms faster.
 
